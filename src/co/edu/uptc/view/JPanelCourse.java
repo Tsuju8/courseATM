@@ -7,6 +7,7 @@ public class JPanelCourse extends JPanel {
 	
 	public JPanelCourse() {
 		this.setBackground(getBackground());
+		this.setSize(WIDTH, HEIGHT);
 		// TODO Auto-generated constructor stub
 	}
 
