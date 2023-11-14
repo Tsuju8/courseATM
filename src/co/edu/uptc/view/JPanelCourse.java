@@ -6,6 +6,7 @@ public class JPanelCourse extends JPanel {
 	private JPanel panel;
 	
 	public JPanelCourse() {
+		this.setBackground(getBackground());
 		// TODO Auto-generated constructor stub
 	}
 
